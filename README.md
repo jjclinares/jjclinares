@@ -11,7 +11,7 @@ I especially enjoy participating in disruptive projects or initiatives that brin
 ## 🚀 About Me
 
 - 📊 **Data Analyst** with 12 years of experience in data management and analysis to optimize processes and improve operational efficiency.
-- 💻 **Junior Back-End Developer** committed to learning best practices in programming and software development.
+- 💻 **Back-End Developer** committed to learning best practices in programming and software development.
 - 🌍 International work experience in Europe, with proficiency in **English, French, Portuguese, and Spanish**.
 - 🥁 **Latin percussion enthusiast** in my free time.
 
@@ -22,7 +22,7 @@ I especially enjoy participating in disruptive projects or initiatives that brin
 - **Languages:** Java, JavaScript, Python, SQL
 - **Frameworks & Libraries:** Spring Boot, REST APIs, Pandas, Matplotlib, Power BI
 - **Databases:** SQL, NoSQL
-- **Tools:** Git, GitHub, Data Frames, Web Scraping
+- **Tools:** Git, GitHub, Data Frames, Web Scraping , Trello, Google Sheets 
 
 ---
 
