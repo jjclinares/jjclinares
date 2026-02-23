@@ -8,7 +8,7 @@ I especially enjoy participating in disruptive projects or initiatives that brin
 
 ## 🚀 About Me
 
-- 📊 **Data Analyst** with 12 years of experience in data management and analysis to optimize processes and improve operational efficiency.
+- 📊 **Data Engineer** with 12 years of experience in data management and analysis to optimize processes and improve operational efficiency.
 - 💻 **Back-End Developer** committed to learning best practices in programming and software development.
 - 🌍 International work experience in Europe, with proficiency in **English, French, Portuguese, and Spanish**.
 - 🥁 **Latin percussion enthusiast** in my free time.
