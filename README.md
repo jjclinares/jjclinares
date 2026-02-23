@@ -62,7 +62,7 @@ h).
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/jamer-linares-tec)
+- [LinkedIn](https://www.linkedin.com/in/jamer-linares-tec)
 - [Email](mailto:jamer_linares@hotmail.com)
 
 
