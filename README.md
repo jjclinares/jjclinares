@@ -18,7 +18,7 @@ I especially enjoy participating in disruptive projects or initiatives that brin
 
 ## 🛠 Technologies and Tools
 
-- **Languages:** Java, JavaScript, Python, SQL
+- **Languages:** Java, JavaScript, Python, SQL ,Julia
 - **Frameworks & Libraries:** Spring Boot, REST APIs, Spring Security, JWT, Pandas, Matplotlib, Power BI, Bean Validation
 - **Databases:** MySQL, PostgreSQL, NoSQL
 - **Tools:** Git, GitHub, Docker, Kubernetes, Insomnia Core, IntelliJ IDEA, Visual Studio Code, Trello, Google Sheets
