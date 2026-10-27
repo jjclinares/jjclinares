@@ -1,42 +1,85 @@
-Hi, I'm Jamer Linares 👋
+<div align="center">
 
-God First | Data Engineer with a Rockstar Soul
+# 👋 Hi, I'm Jamer Linares
 
-I believe in data, but I believe even more in people.
+### 🙏 God First &nbsp;|&nbsp; 📊 Data Engineer with a Rockstar Soul 🥁
 
-text
-Raw data → Reliable platforms → Intelligence
-What I do
+*“I believe in data, but I believe even more in people.”*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamer%20Linares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamer-linares-tec)
+[![Email](https://img.shields.io/badge/Email-jamer.linares.data%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jamer.linares.data@outlook.com)
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jamer-jilver-castro-linares)
+
+```text
+Raw data  →  Reliable platforms  →  Intelligence
+```
+
+</div>
+
+---
+
+## 🎯 What I do
 
 I am a data engineer. I design and build the platforms that turn raw, messy data into something an organization can trust, and then make that data ready for AI.
 
-My work is the foundation underneath analytics and AI: ingestion, modeling, quality, governance and delivery. I led data and analytics across five countries in Latin America, worked in Europe, and I collaborate in English, Spanish, Portuguese and French.
+My work is the foundation underneath analytics and AI: **ingestion → modeling → quality → governance → delivery**. I led data and analytics across five countries in Latin America, worked in Europe, and I collaborate in 🇬🇧 English, 🇪🇸 Spanish, 🇵🇹 Portuguese and 🇫🇷 French.
 
-How I think about data and AI
+---
 
-AI is only as good as the data it learns from and retrieves from. So I treat AI as a way to strengthen the dataset, not as a replacement for good engineering:
+## 🧠 How I think about data and AI
 
-Trustworthy first: layered architectures, incremental loads, data-quality gates and clear ownership before any model touches the data
-Enrichment: using AI to clean, classify, deduplicate and add meaning to data that was hard to use
-Retrieval: preparing curated data so it can be searched by meaning, not only by keywords, and grounded in real sources
-Feedback loops: measuring how models and agents use the data, and feeding that back into the platform
+AI is only as good as the data it learns from and retrieves from. So I treat AI as a way to **strengthen the dataset**, not as a replacement for good engineering:
 
-I keep learning on purpose. The goal is not to chase every new tool, but to keep my engineering fundamentals solid while the AI layer evolves.
+| | Principle | What it means |
+|---|---|---|
+| ✅ | **Trustworthy first** | Layered architectures, incremental loads, data-quality gates and clear ownership before any model touches the data |
+| ✨ | **Enrichment** | Using AI to clean, classify, deduplicate and add meaning to data that was hard to use |
+| 🔎 | **Retrieval** | Preparing curated data so it can be searched by meaning, not only by keywords, and grounded in real sources |
+| 🔁 | **Feedback loops** | Measuring how models and agents use the data, and feeding that back into the platform |
 
-Projects
-Featured
+> 🌱 I keep learning on purpose. The goal is not to chase every new tool, but to keep my engineering fundamentals solid while the AI layer evolves.
 
-ChowHound, LTD: Restaurant Profile on Microsoft Fabric Medallion pipeline in Spark notebooks (bronze, silver, gold) with a data-quality gate, star schema and a Direct Lake semantic model with 95 DAX measures. I tested the CEO's claim on 68,898 order lines: only 14.2% of unfulfilled lines were reordered within 60 days.
+---
 
-Labs
-medallion_arq_ingest: ELT pipeline with Python, dbt and DuckDB
-JARVIS: AI and home-automation lab (voice recognition, intelligent assistant architectures)
-Professional work
+## 🚀 Projects
 
-Lead Data Platform & Analytics: Led the evolution of Data & Analytics  an organizational intelligence platform (layered Data Lake, MLOps, GenAI).
+### ⭐ Featured
 
-Guided by faith, powered by music. Percussionist (my natural antidote to algorithmic overfitting), BMX & downhill MTB racer, and curious about digital transformation and software architecture.
+#### 🧱 [FacilityOps Medallion Lakehouse on Databricks](https://github.com/jjclinares/medallion_arq_ingest)
+An end-to-end lakehouse on Unity Catalog: Auto Loader and parallel JDBC ingestion (PySpark) into bronze, dbt models for silver, and a gold star schema (11 dimensions, 5 facts) with liquid clustering and incremental merge. Deployed as code with Databricks Asset Bundles, with data tests and CI on GitHub Actions.
 
-Connect
+#### 🍽️ [ChowHound, LTD: Restaurant Profile on Microsoft Fabric](https://github.com/jjclinares/chowhoundltd_jamer)
+Medallion pipeline in Spark notebooks (bronze, silver, gold) with a data-quality gate, star schema and a Direct Lake semantic model with 95 DAX measures. I tested the CEO's claim on 68,898 order lines: only **14.2%** of unfulfilled lines were reordered within 60 days.
 
-LinkedIn
+---
+
+## 🛤️ My path
+
+I started in large-scale data auditing, working with millions of records a month, where I learned that trust in data is built before any dashboard exists. From there I moved through analytics and business intelligence, freelance consulting across sectors, and finally leading a regional data platform across five countries in Latin America: a Microsoft Fabric platform on a medallion architecture, a new ERP integrated with ten years of legacy history, and **30+ analytical products and ~50 dashboards used by 400+ people**. I also prototyped an organizational intelligence platform (layered data lake, MLOps, GenAI).
+
+Today I focus on data engineering: reliable pipelines, clear models and platforms that people and AI can depend on.
+
+---
+
+## 📚 Earlier projects (Oracle ONE)
+
+- 💬 [ForoHubChallenge](https://github.com/jjclinares/ForoHubChallenge): Spring Boot forum API with JWT authentication
+- 📖 [Spring_Literalura_Challenge](https://github.com/jjclinares/Spring_Literalura_Challenge): book catalog integrating PostgreSQL with public APIs
+- 💱 [Conversor-de-Monedas](https://github.com/jjclinares/Conversor-de-Monedas): Java app with exchange-rate APIs
+- 🔐 [Encriptador-de-texto](https://github.com/jjclinares/Encriptador-de-texto): HTML, CSS and JavaScript web app
+
+---
+
+## 🎶 Beyond data
+
+Guided by faith, powered by music. 🥁 Percussionist (my natural antidote to algorithmic overfitting), 🚵 BMX & downhill MTB racer, and curious about digital transformation and software architecture.
+
+---
+
+<div align="center">
+
+### 📬 Let's connect
+
+[💼 LinkedIn](https://www.linkedin.com/in/jamer-linares-tec) &nbsp;•&nbsp; [🏅 Credly badges](https://www.credly.com/users/jamer-jilver-castro-linares) &nbsp;•&nbsp; [✉️ jamer.linares.data@outlook.com](mailto:jamer.linares.data@outlook.com)
+
+</div>
