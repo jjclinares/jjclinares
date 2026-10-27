@@ -45,7 +45,7 @@ AI is only as good as the data it learns from and retrieves from. So I treat AI 
 
 ### ⭐ Featured
 
-#### 🧱 [FacilityOps Lakehouse: Databricks, dbt & Unity Catalog](https://github.com/jjclinares/medallion_arq_ingest)
+#### 🧱 [FacilityOps Lakehouse: Databricks, dbt & Unity Catalog](https://github.com/jjclinares/facilityops-databricks-lakehouse)
 An end-to-end lakehouse on Unity Catalog: Auto Loader and parallel JDBC ingestion (PySpark) into bronze, dbt models for silver, and a gold star schema (11 dimensions, 5 facts) with liquid clustering and incremental merge. Deployed as code with Databricks Asset Bundles, with data tests and CI on GitHub Actions.
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
@@ -56,7 +56,7 @@ An end-to-end lakehouse on Unity Catalog: Auto Loader and parallel JDBC ingestio
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-#### 🍽️ [ChowHound Restaurant Profile: Microsoft Fabric & Power BI](https://github.com/jjclinares/chowhoundltd_jamer)
+#### 🍽️ [ChowHound Restaurant Profile: Microsoft Fabric & Power BI](https://github.com/jjclinares/chowhound-fabric-medallion)
 Medallion pipeline in Spark notebooks (bronze, silver, gold) with a data-quality gate, star schema and a Direct Lake semantic model with 95 DAX measures. I tested the CEO's claim on 68,898 order lines: only **14.2%** of unfulfilled lines were reordered within 60 days.
 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square&logo=microsoft&logoColor=white)
