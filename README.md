@@ -45,11 +45,25 @@ AI is only as good as the data it learns from and retrieves from. So I treat AI 
 
 ### ⭐ Featured
 
-#### 🧱 [FacilityOps Medallion Lakehouse on Databricks](https://github.com/jjclinares/medallion_arq_ingest)
+#### 🧱 [FacilityOps Lakehouse: Databricks, dbt & Unity Catalog](https://github.com/jjclinares/medallion_arq_ingest)
 An end-to-end lakehouse on Unity Catalog: Auto Loader and parallel JDBC ingestion (PySpark) into bronze, dbt models for silver, and a gold star schema (11 dimensions, 5 facts) with liquid clustering and incremental merge. Deployed as code with Databricks Asset Bundles, with data tests and CI on GitHub Actions.
 
-#### 🍽️ [ChowHound, LTD: Restaurant Profile on Microsoft Fabric](https://github.com/jjclinares/chowhoundltd_jamer)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-1B3139?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+#### 🍽️ [ChowHound Restaurant Profile: Microsoft Fabric & Power BI](https://github.com/jjclinares/chowhoundltd_jamer)
 Medallion pipeline in Spark notebooks (bronze, silver, gold) with a data-quality gate, star schema and a Direct Lake semantic model with 95 DAX measures. I tested the CEO's claim on 68,898 order lines: only **14.2%** of unfulfilled lines were reordered within 60 days.
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark%20Notebooks-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![Dataflows Gen2](https://img.shields.io/badge/Dataflows%20Gen2-0078D4?style=flat-square)
 
 ---
 
